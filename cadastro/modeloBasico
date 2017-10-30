@@ -1,0 +1,28 @@
+Objeto ModeloBasico
+características: modelo, aplicacao, siglaModelo
+
+[modelo]
+{mountain bike,
+ downhill,
+ city,
+ speed,
+ BMX,
+ chopper,
+ ...}
+
+[aplicacao]
+{urbana,
+ passeio,
+ família,
+ dobrável,
+ ...}
+
+[siglaModelo]
+{MTB,
+ DHL,
+ CTY,
+ SPD,
+ BMX,
+ CHP,
+ ...}
+

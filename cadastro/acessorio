@@ -1,0 +1,28 @@
+objeto Acessorio
+caracteristicas: acessorio, especificidade(descrição, detalhamento)
+
+[acessorio]
+{Alforge,
+ Anel de Silicone,
+ Bagageiro, 
+ Bolsa de Guidão, 
+ Bolsa de Quadro,
+ Bolsa de selim,
+ Bolsa para Celular,
+ Bolsa para Rodas 29", 
+ Cadeado, 
+ Campainha, 
+ Canote de Selim, 
+ Capa de Selim, 
+ Caramanhola, 
+ Cesta Frontal,
+ Cesta Traseira,
+ Ciclocomputador,
+ Farol dianteiro,
+ Luz Traseira,
+ Paralama,
+ Pisca Led dianteiro, 
+ Pisca Led traseiro,
+ Suporte Caramanhola,
+ Velocímetro,
+ ...}

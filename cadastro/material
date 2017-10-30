@@ -1,0 +1,8 @@
+objeto Material
+características:material
+
+[material]
+{aluminio,
+ carbono,
+ ferro,
+ ...}
